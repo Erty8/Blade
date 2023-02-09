@@ -24,6 +24,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "FoliageShadowImposters",
+			"Enabled": false
 		}
 	]
 }
